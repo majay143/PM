@@ -119,7 +119,8 @@
   },
   "scripts": {
       "start":"node server/index.js",
-      "dev":"nodemon server/index.js"
+      "dev":"nodemon server/index.js",
+      "build":"npm i"
   },
   "author": "",
   "license": "ISC"
